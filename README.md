@@ -54,6 +54,8 @@ The script will save `lda_demo.png` and `lda_demo_3d.png` in the same directory 
 
 ![LDA Projection 3D](lda_demo_3d.png)
 
+![LDA Projection 3D](lda_demo_3d_2.png)
+
 ## Notes
 
 - If the images do not appear in the README preview, run the script to generate them and refresh the preview.
